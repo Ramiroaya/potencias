@@ -1,2 +1,2 @@
-# potencias
+# primercommit
 Created with CodeSandbox
